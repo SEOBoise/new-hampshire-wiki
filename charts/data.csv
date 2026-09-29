@@ -1,0 +1,12 @@
+chart,label,value,unit,period,definition,source
+Population,2010 census,1316470,persons,"April 1, 2010",New Hampshire statewide; census count or annual estimate as labeled,https://www.census.gov/quickfacts/NH
+Population,2020 census,1377529,persons,"April 1, 2020",New Hampshire statewide; census count or annual estimate as labeled,https://www.census.gov/quickfacts/NH
+Population,2025 estimate,1415342,persons,"July 1, 2025",New Hampshire statewide; census count or annual estimate as labeled,https://www.census.gov/quickfacts/NH
+Unemployment,Vermont,2.6,percent,August 2026,Seasonally adjusted; preliminary,https://www.bls.gov/web/laus/laumstrk.htm
+Unemployment,New Hampshire,2.8,percent,August 2026,Seasonally adjusted; preliminary,https://www.bls.gov/web/laus/laumstrk.htm
+Unemployment,Maine,3.2,percent,August 2026,Seasonally adjusted; preliminary,https://www.bls.gov/web/laus/laumstrk.htm
+Unemployment,Massachusetts,4.3,percent,August 2026,Seasonally adjusted; preliminary,https://www.bls.gov/web/laus/laumstrk.htm
+Unemployment,Rhode Island,4.5,percent,August 2026,Seasonally adjusted; preliminary,https://www.bls.gov/web/laus/laumstrk.htm
+Unemployment,Connecticut,5.1,percent,August 2026,Seasonally adjusted; preliminary,https://www.bls.gov/web/laus/laumstrk.htm
+Selected summits,Mount Washington,6288,feet,"Checked September 29, 2026","Summit elevation; selected landmarks, not a highest-peaks ranking",https://www.nhstateparks.org/find-parks-trails/mt-washington-state-park
+Selected summits,Mount Monadnock,3165,feet,"Checked September 29, 2026","Summit elevation; selected landmarks, not a highest-peaks ranking",https://www.nhstateparks.org/find-parks-trails/moadnock-state-park

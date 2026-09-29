@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://newhampshire.wiki/sitemap.xml

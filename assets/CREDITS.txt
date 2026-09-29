@@ -1,0 +1,8 @@
+Photograph: I-93 Franconia Notch.jpg
+Creator: SayCheeeeeese. Date: August 23, 2008.
+Source: https://commons.wikimedia.org/wiki/File:I-93_Franconia_Notch.jpg
+Image: https://upload.wikimedia.org/wikipedia/commons/8/80/I-93_Franconia_Notch.jpg
+Public domain: released by the copyright holder.
+Uses the Commons crop made by Admrboltz in 2014. This package resizes that version and converts it to WebP; no further crop or color edits.
+Original SHA1 verified: 9ae2603eb99f1c17121f675c601b63fcb1eea92a
+Charts and mountain icon: original graphics created for this package.

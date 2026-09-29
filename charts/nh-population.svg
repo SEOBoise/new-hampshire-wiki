@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE svg
+  PUBLIC '-//W3C//DTD SVG 1.0//EN'
+  'http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd'>
+<svg width="900" height="480" preserveAspectRatio="xMinYMin meet" viewBox="0 0 900 480" xmlns="http://www.w3.org/2000/svg" version="1.0" fill-rule="evenodd" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<title>...</title>
+	<desc>...</desc>
+	<clipPath id="clip">
+		<rect x="0" y="0" width="900" height="480"/>
+	</clipPath>
+	<g id="group" transform="scale(1,-1) translate(0,-480)" style="clip-path: url(#clip)">
+		<g transform="">
+			<rect x="0" y="0" width="900" height="480" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<text x="35" y="438" style="font-family: Times-Roman; font-size: 28px;fill: rgb(9%,23%,32%); stroke:none;" transform="translate(0,876) scale(1,-1)">New Hampshire population</text>
+			<text x="35" y="411" style="font-family: Helvetica; font-size: 13px;fill: rgb(31%,38%,42%); stroke:none;" transform="translate(0,822) scale(1,-1)">Statewide census counts and annual estimate</text>
+			<text x="35" y="23" style="font-family: Helvetica; font-size: 11px;fill: rgb(31%,38%,42%); stroke:none;" transform="translate(0,46) scale(1,-1)">Source: U.S. Census Bureau QuickFacts. The annual estimate refers to July 1, 2025.</text>
+			<g transform="">
+				<path d="M 108,85 L 836,85 Z" style="stroke: rgb(83%,87%,89%); stroke-linecap: butt; stroke-width: 0.25;"/>
+				<path d="M 108,155.75 L 836,155.75 Z" style="stroke: rgb(83%,87%,89%); stroke-linecap: butt; stroke-width: 0.25;"/>
+				<path d="M 108,226.5 L 836,226.5 Z" style="stroke: rgb(83%,87%,89%); stroke-linecap: butt; stroke-width: 0.25;"/>
+				<path d="M 108,297.25 L 836,297.25 Z" style="stroke: rgb(83%,87%,89%); stroke-linecap: butt; stroke-width: 0.25;"/>
+				<path d="M 108,368 L 836,368 Z" style="stroke: rgb(83%,87%,89%); stroke-linecap: butt; stroke-width: 0.25;"/>
+				<g transform="">
+					<rect x="202.37037037037038" y="85.0" width="53.925925925925924" height="232.85063125" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(9%,23%,32%); fill-rule: evenodd;"/>
+					<rect x="445.037037037037" y="85.0" width="53.925925925925924" height="243.650441875" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(9%,23%,32%); fill-rule: evenodd;"/>
+					<rect x="687.7037037037036" y="85.0" width="53.92592592592598" height="250.33861624999997" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(17%,44%,40%); fill-rule: evenodd;"/>
+					<g transform="">
+						<g transform=" matrix(1,0,0,1,229.333333,327.850631)">
+							<text x="-32.0" y="3.1999999999999993" style="font-family: Times-Roman; font-size: 16px;fill: rgb(9%,23%,32%); stroke:none;" transform="translate(0,6) scale(1,-1)">1,316,470</text>
+						</g>
+						<g transform=" matrix(1,0,0,1,472,338.650442)">
+							<text x="-32.0" y="3.1999999999999993" style="font-family: Times-Roman; font-size: 16px;fill: rgb(9%,23%,32%); stroke:none;" transform="translate(0,6) scale(1,-1)">1,377,529</text>
+						</g>
+						<g transform=" matrix(1,0,0,1,714.666667,345.338616)">
+							<text x="-32.0" y="3.1999999999999993" style="font-family: Times-Roman; font-size: 16px;fill: rgb(9%,23%,32%); stroke:none;" transform="translate(0,6) scale(1,-1)">1,415,342</text>
+						</g>
+					</g>
+				</g>
+				<g transform="">
+					<g transform="">
+						<path d="M 108,85 L 836,85 Z" style="stroke: rgb(83%,87%,89%); stroke-linecap: butt; stroke-width: 1;"/>
+					</g>
+					<g transform="">
+						<path d="M 108,85 L 108,80 Z" style="stroke: rgb(83%,87%,89%); stroke-linecap: butt; stroke-width: 1;"/>
+						<path d="M 350.666667,85 L 350.666667,80 Z" style="stroke: rgb(83%,87%,89%); stroke-linecap: butt; stroke-width: 1;"/>
+						<path d="M 593.333333,85 L 593.333333,80 Z" style="stroke: rgb(83%,87%,89%); stroke-linecap: butt; stroke-width: 1;"/>
+						<path d="M 836,85 L 836,80 Z" style="stroke: rgb(83%,87%,89%); stroke-linecap: butt; stroke-width: 1;"/>
+					</g>
+					<g transform="">
+						<g transform=" matrix(1,0,0,1,229.333333,75)">
+							<text x="-39.69" y="-14.000000000000002" style="font-family: Helvetica; font-size: 14px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,-28) scale(1,-1)">2010 census</text>
+						</g>
+						<g transform=" matrix(1,0,0,1,472,75)">
+							<text x="-39.69" y="-14.000000000000002" style="font-family: Helvetica; font-size: 14px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,-28) scale(1,-1)">2020 census</text>
+						</g>
+						<g transform=" matrix(1,0,0,1,714.666667,75)">
+							<text x="-43.967" y="-14.000000000000002" style="font-family: Helvetica; font-size: 14px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,-28) scale(1,-1)">2025 estimate</text>
+						</g>
+					</g>
+				</g>
+				<g transform="">
+					<g transform=""/>
+					<g transform=""/>
+					<g transform="">
+						<g transform=" matrix(1,0,0,1,103,85)">
+							<text x="-15.336" y="-4.800000000000001" style="font-family: Times-Roman; font-size: 12px;fill: rgb(31%,38%,42%); stroke:none;" transform="translate(0,-9) scale(1,-1)">0m</text>
+						</g>
+						<g transform=" matrix(1,0,0,1,103,155.75)">
+							<text x="-24.336" y="-4.800000000000001" style="font-family: Times-Roman; font-size: 12px;fill: rgb(31%,38%,42%); stroke:none;" transform="translate(0,-9) scale(1,-1)">0.4m</text>
+						</g>
+						<g transform=" matrix(1,0,0,1,103,226.5)">
+							<text x="-24.336" y="-4.800000000000001" style="font-family: Times-Roman; font-size: 12px;fill: rgb(31%,38%,42%); stroke:none;" transform="translate(0,-9) scale(1,-1)">0.8m</text>
+						</g>
+						<g transform=" matrix(1,0,0,1,103,297.25)">
+							<text x="-24.336" y="-4.800000000000001" style="font-family: Times-Roman; font-size: 12px;fill: rgb(31%,38%,42%); stroke:none;" transform="translate(0,-9) scale(1,-1)">1.2m</text>
+						</g>
+						<g transform=" matrix(1,0,0,1,103,368)">
+							<text x="-24.336" y="-4.800000000000001" style="font-family: Times-Roman; font-size: 12px;fill: rgb(31%,38%,42%); stroke:none;" transform="translate(0,-9) scale(1,-1)">1.6m</text>
+						</g>
+					</g>
+				</g>
+			</g>
+		</g>
+	</g>
+</svg>

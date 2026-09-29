@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE svg
+  PUBLIC '-//W3C//DTD SVG 1.0//EN'
+  'http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd'>
+<svg width="900" height="480" preserveAspectRatio="xMinYMin meet" viewBox="0 0 900 480" xmlns="http://www.w3.org/2000/svg" version="1.0" fill-rule="evenodd" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<title>...</title>
+	<desc>...</desc>
+	<clipPath id="clip">
+		<rect x="0" y="0" width="900" height="480"/>
+	</clipPath>
+	<g id="group" transform="scale(1,-1) translate(0,-480)" style="clip-path: url(#clip)">
+		<g transform="">
+			<rect x="0" y="0" width="900" height="480" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<text x="35" y="438" style="font-family: Times-Roman; font-size: 28px;fill: rgb(9%,23%,32%); stroke:none;" transform="translate(0,876) scale(1,-1)">Unemployment across New England</text>
+			<text x="35" y="411" style="font-family: Helvetica; font-size: 13px;fill: rgb(31%,38%,42%); stroke:none;" transform="translate(0,822) scale(1,-1)">August 2026 · Seasonally adjusted · Preliminary</text>
+			<text x="35" y="23" style="font-family: Helvetica; font-size: 11px;fill: rgb(31%,38%,42%); stroke:none;" transform="translate(0,46) scale(1,-1)">Source: U.S. Bureau of Labor Statistics. September 18, 2026 release; rates may be revised.</text>
+			<g transform="">
+				<path d="M 230,79 L 230,379 Z" style="stroke: rgb(83%,87%,89%); stroke-linecap: butt; stroke-width: 0.25;"/>
+				<path d="M 325.666667,79 L 325.666667,379 Z" style="stroke: rgb(83%,87%,89%); stroke-linecap: butt; stroke-width: 0.25;"/>
+				<path d="M 421.333333,79 L 421.333333,379 Z" style="stroke: rgb(83%,87%,89%); stroke-linecap: butt; stroke-width: 0.25;"/>
+				<path d="M 517,79 L 517,379 Z" style="stroke: rgb(83%,87%,89%); stroke-linecap: butt; stroke-width: 0.25;"/>
+				<path d="M 612.666667,79 L 612.666667,379 Z" style="stroke: rgb(83%,87%,89%); stroke-linecap: butt; stroke-width: 0.25;"/>
+				<path d="M 708.333333,79 L 708.333333,379 Z" style="stroke: rgb(83%,87%,89%); stroke-linecap: butt; stroke-width: 0.25;"/>
+				<path d="M 804,79 L 804,379 Z" style="stroke: rgb(83%,87%,89%); stroke-linecap: butt; stroke-width: 0.25;"/>
+				<g transform="">
+					<rect x="230.0" y="87.33333333333333" width="487.9" height="33.33333333333333" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(9%,23%,32%); fill-rule: evenodd;"/>
+					<rect x="230.0" y="137.33333333333334" width="430.5" height="33.33333333333334" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(9%,23%,32%); fill-rule: evenodd;"/>
+					<rect x="230.0" y="187.33333333333334" width="411.3666666666667" height="33.33333333333334" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(9%,23%,32%); fill-rule: evenodd;"/>
+					<rect x="230.0" y="237.33333333333334" width="306.13333333333344" height="33.33333333333334" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(9%,23%,32%); fill-rule: evenodd;"/>
+					<rect x="230.0" y="287.3333333333333" width="267.8666666666667" height="33.333333333333314" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(17%,44%,40%); fill-rule: evenodd;"/>
+					<rect x="230.0" y="337.3333333333333" width="248.73333333333335" height="33.333333333333314" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(9%,23%,32%); fill-rule: evenodd;"/>
+					<g transform="">
+						<g transform=" matrix(1,0,0,1,727.9,104)">
+							<text x="0.0" y="-5.600000000000001" style="font-family: Times-Roman; font-size: 14px;fill: rgb(9%,23%,32%); stroke:none;" transform="translate(0,-11) scale(1,-1)">5.1%</text>
+						</g>
+						<g transform=" matrix(1,0,0,1,670.5,154)">
+							<text x="0.0" y="-5.600000000000001" style="font-family: Times-Roman; font-size: 14px;fill: rgb(9%,23%,32%); stroke:none;" transform="translate(0,-11) scale(1,-1)">4.5%</text>
+						</g>
+						<g transform=" matrix(1,0,0,1,651.366667,204)">
+							<text x="0.0" y="-5.600000000000001" style="font-family: Times-Roman; font-size: 14px;fill: rgb(9%,23%,32%); stroke:none;" transform="translate(0,-11) scale(1,-1)">4.3%</text>
+						</g>
+						<g transform=" matrix(1,0,0,1,546.133333,254)">
+							<text x="0.0" y="-5.600000000000001" style="font-family: Times-Roman; font-size: 14px;fill: rgb(9%,23%,32%); stroke:none;" transform="translate(0,-11) scale(1,-1)">3.2%</text>
+						</g>
+						<g transform=" matrix(1,0,0,1,507.866667,304)">
+							<text x="0.0" y="-5.600000000000001" style="font-family: Times-Roman; font-size: 14px;fill: rgb(9%,23%,32%); stroke:none;" transform="translate(0,-11) scale(1,-1)">2.8%</text>
+						</g>
+						<g transform=" matrix(1,0,0,1,488.733333,354)">
+							<text x="0.0" y="-5.600000000000001" style="font-family: Times-Roman; font-size: 14px;fill: rgb(9%,23%,32%); stroke:none;" transform="translate(0,-11) scale(1,-1)">2.6%</text>
+						</g>
+					</g>
+				</g>
+				<g transform="">
+					<g transform=""/>
+					<g transform=""/>
+					<g transform="">
+						<g transform=" matrix(1,0,0,1,220,104)">
+							<text x="-73.92" y="-5.600000000000001" style="font-family: Helvetica; font-size: 14px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,-11) scale(1,-1)">Connecticut</text>
+						</g>
+						<g transform=" matrix(1,0,0,1,220,154)">
+							<text x="-82.488" y="-5.600000000000001" style="font-family: Helvetica; font-size: 14px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,-11) scale(1,-1)">Rhode Island</text>
+						</g>
+						<g transform=" matrix(1,0,0,1,220,204)">
+							<text x="-93.36600000000001" y="-5.600000000000001" style="font-family: Helvetica; font-size: 14px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,-11) scale(1,-1)">Massachusetts</text>
+						</g>
+						<g transform=" matrix(1,0,0,1,220,254)">
+							<text x="-38.122" y="-5.600000000000001" style="font-family: Helvetica; font-size: 14px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,-11) scale(1,-1)">Maine</text>
+						</g>
+						<g transform=" matrix(1,0,0,1,220,304)">
+							<text x="-99.568" y="-5.600000000000001" style="font-family: Helvetica; font-size: 14px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,-11) scale(1,-1)">New Hampshire</text>
+						</g>
+						<g transform=" matrix(1,0,0,1,220,354)">
+							<text x="-52.906" y="-5.600000000000001" style="font-family: Helvetica; font-size: 14px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,-11) scale(1,-1)">Vermont</text>
+						</g>
+					</g>
+				</g>
+				<g transform="">
+					<g transform="">
+						<path d="M 230,79 L 804,79 Z" style="stroke: rgb(83%,87%,89%); stroke-linecap: butt; stroke-width: 1;"/>
+					</g>
+					<g transform="">
+						<path d="M 230,79 L 230,74 Z" style="stroke: rgb(83%,87%,89%); stroke-linecap: butt; stroke-width: 1;"/>
+						<path d="M 325.666667,79 L 325.666667,74 Z" style="stroke: rgb(83%,87%,89%); stroke-linecap: butt; stroke-width: 1;"/>
+						<path d="M 421.333333,79 L 421.333333,74 Z" style="stroke: rgb(83%,87%,89%); stroke-linecap: butt; stroke-width: 1;"/>
+						<path d="M 517,79 L 517,74 Z" style="stroke: rgb(83%,87%,89%); stroke-linecap: butt; stroke-width: 1;"/>
+						<path d="M 612.666667,79 L 612.666667,74 Z" style="stroke: rgb(83%,87%,89%); stroke-linecap: butt; stroke-width: 1;"/>
+						<path d="M 708.333333,79 L 708.333333,74 Z" style="stroke: rgb(83%,87%,89%); stroke-linecap: butt; stroke-width: 1;"/>
+						<path d="M 804,79 L 804,74 Z" style="stroke: rgb(83%,87%,89%); stroke-linecap: butt; stroke-width: 1;"/>
+					</g>
+					<g transform="">
+						<g transform=" matrix(1,0,0,1,230,74)">
+							<text x="-7.997999999999999" y="-12.0" style="font-family: Times-Roman; font-size: 12px;fill: rgb(31%,38%,42%); stroke:none;" transform="translate(0,-24) scale(1,-1)">0%</text>
+						</g>
+						<g transform=" matrix(1,0,0,1,325.666667,74)">
+							<text x="-7.997999999999999" y="-12.0" style="font-family: Times-Roman; font-size: 12px;fill: rgb(31%,38%,42%); stroke:none;" transform="translate(0,-24) scale(1,-1)">1%</text>
+						</g>
+						<g transform=" matrix(1,0,0,1,421.333333,74)">
+							<text x="-7.997999999999999" y="-12.0" style="font-family: Times-Roman; font-size: 12px;fill: rgb(31%,38%,42%); stroke:none;" transform="translate(0,-24) scale(1,-1)">2%</text>
+						</g>
+						<g transform=" matrix(1,0,0,1,517,74)">
+							<text x="-7.997999999999999" y="-12.0" style="font-family: Times-Roman; font-size: 12px;fill: rgb(31%,38%,42%); stroke:none;" transform="translate(0,-24) scale(1,-1)">3%</text>
+						</g>
+						<g transform=" matrix(1,0,0,1,612.666667,74)">
+							<text x="-7.997999999999999" y="-12.0" style="font-family: Times-Roman; font-size: 12px;fill: rgb(31%,38%,42%); stroke:none;" transform="translate(0,-24) scale(1,-1)">4%</text>
+						</g>
+						<g transform=" matrix(1,0,0,1,708.333333,74)">
+							<text x="-7.997999999999999" y="-12.0" style="font-family: Times-Roman; font-size: 12px;fill: rgb(31%,38%,42%); stroke:none;" transform="translate(0,-24) scale(1,-1)">5%</text>
+						</g>
+						<g transform=" matrix(1,0,0,1,804,74)">
+							<text x="-7.997999999999999" y="-12.0" style="font-family: Times-Roman; font-size: 12px;fill: rgb(31%,38%,42%); stroke:none;" transform="translate(0,-24) scale(1,-1)">6%</text>
+						</g>
+					</g>
+				</g>
+			</g>
+		</g>
+	</g>
+</svg>

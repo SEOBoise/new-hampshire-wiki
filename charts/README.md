@@ -1,0 +1,1 @@
+Three original charts, supplied as SVG for the page and PNG for CMS import. data.csv records values, dates, units and sources. All quantitative axes start at zero. Retain captions: estimates differ from counts, August 2026 unemployment is preliminary, and the two summit examples are not a highest-peaks ranking.
